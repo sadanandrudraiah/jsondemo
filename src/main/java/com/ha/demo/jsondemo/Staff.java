@@ -10,6 +10,7 @@ public class Staff {
 	public Staff() {
 		super();
 		// TODO Auto-generated constructor stub
+		// simply test
 	}
 	public Staff(String name, int age, String position) {
 		super();

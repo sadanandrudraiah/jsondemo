@@ -52,6 +52,7 @@ public class App
     
     private static void convertObjToJSON()
     {
+	    // just try
     	ObjectMapper mapper = new ObjectMapper();
     	Staff staff = new Staff("Sada", 11, "Developer");
     	
